@@ -25,6 +25,11 @@ public class Linearinter : MonoBehaviour
             t += Time.deltaTime * speed;
             transform.position = Vector3.Lerp(start_position, target.position, t);
         }
+        if (t >= 1.0f)
+        {
+            t = 0.0f;
+            transform.position = start_position;
+        }
         
     }
 }
