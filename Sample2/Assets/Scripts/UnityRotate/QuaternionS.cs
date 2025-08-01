@@ -1,0 +1,34 @@
+using UnityEngine;
+// 쿼터니온 기능 정리
+// Quaternion.identity = 회전 없음
+// .Euler(x,y,z) = 오일러 각 => 쿼터니온 변환
+// .AngleAxis(angle, axis) 특정 축 기준의 회전
+// .LookRotation(forward, upward(defalt : Vector3.up); 해당 백터 방향을 바라보는 회전 상태에 대한 return
+
+// forward : 회전 시킬 방향 (Vector3)
+// upward : 방향을 바라고 있을 때의 위 부분을 설정 기본 값은 up으로 설정 되어 있어서 특별한 경우 아니면 건드릴 일 없음
+
+// 회전 값 적용
+// transform.rotation = Quaternion.Euler(x,y,z) // 현재 오브젝트의 회전 값을 적용합니다.
+
+// 회전에 대한 보간
+// Quaternion.Slerp(from, to, t)  : 구면 선형 보간
+// Quaternion.lerp(from, to, t)   : 션형 보간
+// Quaternion.RotateTowards(from, to, maxDegree) : 일정 각도 만큼 점진적으로 회전을 처리 합니다.
+
+// transform.LookAt() vs Quaternion.LookRotation()
+// 둘다 특정 방향을 보게하는 코드
+// 1. LookAt : 추가 회전 보간이나 제어가 어렵고, 설정해준 값을 기준으로 transform.rotation을 자동으로 설정해주는 기능
+// 내부에서 Quaternion.LookRotation을 사용하는 방식
+// => 날 바라봐 넌 날수 있어
+// 2. 뒤에거 : 회전 값만 계산하고 직접적인 적용은 하지 않는다.
+// => 계산은 끝 추가적인 작업으로 계산 처리해 
+public class QuaternionS : MonoBehaviour
+{
+    void Start()
+    {    
+    }
+    void Update()
+    {       
+    }
+}
