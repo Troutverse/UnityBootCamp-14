@@ -1,13 +1,9 @@
 using UnityEngine;
 
-// 총알에 대한 발사(생성) 기능만 당담
-
 public class Fire : MonoBehaviour
 {
-    // 총알 발사를 위한 풀
     public BulletPool pool;
     
-    // 발사 지점
     public Transform pos;
 
     private void Update()

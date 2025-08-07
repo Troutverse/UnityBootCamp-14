@@ -39,6 +39,7 @@ public class UnitMoveAI : MonoBehaviour
                 //Vector3 dir = (player_position.position - transform.position).normalized;
 
                 transform.position = Vector3.MoveTowards(transform.position, player_position.position, speed * Time.deltaTime);
+                
 
             }
             else
