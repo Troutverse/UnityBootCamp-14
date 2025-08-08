@@ -29,10 +29,11 @@ public class MenuUi : MonoBehaviour
     private void GameExit()
     {
         // CROSS 플랫폼에서 이렇게 한다 ( EX) APPLE, ANROID )
-        #if UNITY_EDITOR 
-                EditorApplication.Exit(0); // 이미 여기서 끝난다고 판단, 밑은 실행 안 시킴
-        #else
-                Application.Quit();
-        #endif
+#if UNITY_EDITOR
+Application.Quit(); // 이미 여기서 끝난다고 판단, 밑은 실행 안 시킴
+#else
+EditorApplication.Exit(0);
+EditorApplication.isPlaying = false;
+#endif
     }
 }
