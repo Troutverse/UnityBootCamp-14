@@ -27,6 +27,7 @@ class MyList<T>
         {
             mylists[i] = mylists[i + 1];
         }
+        count--;
     }
 
     public T GetIndex(int index)
