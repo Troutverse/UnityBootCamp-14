@@ -1,0 +1,14 @@
+C:\csharp\20250722\20250722\bin\Debug\net9.0\Study.exe
+C:\csharp\20250722\20250722\bin\Debug\net9.0\Study.deps.json
+C:\csharp\20250722\20250722\bin\Debug\net9.0\Study.runtimeconfig.json
+C:\csharp\20250722\20250722\bin\Debug\net9.0\Study.dll
+C:\csharp\20250722\20250722\bin\Debug\net9.0\Study.pdb
+C:\csharp\20250722\20250722\obj\Debug\net9.0\Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\20250722\20250722\obj\Debug\net9.0\Study.AssemblyInfoInputs.cache
+C:\csharp\20250722\20250722\obj\Debug\net9.0\Study.AssemblyInfo.cs
+C:\csharp\20250722\20250722\obj\Debug\net9.0\Study.csproj.CoreCompileInputs.cache
+C:\csharp\20250722\20250722\obj\Debug\net9.0\Study.dll
+C:\csharp\20250722\20250722\obj\Debug\net9.0\refint\Study.dll
+C:\csharp\20250722\20250722\obj\Debug\net9.0\Study.pdb
+C:\csharp\20250722\20250722\obj\Debug\net9.0\Study.genruntimeconfig.cache
+C:\csharp\20250722\20250722\obj\Debug\net9.0\ref\Study.dll

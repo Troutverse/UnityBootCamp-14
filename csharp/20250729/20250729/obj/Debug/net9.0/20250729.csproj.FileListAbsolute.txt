@@ -1,0 +1,14 @@
+C:\csharp\20250729\20250729\obj\Debug\net9.0\20250729.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\20250729\20250729\obj\Debug\net9.0\20250729.AssemblyInfoInputs.cache
+C:\csharp\20250729\20250729\obj\Debug\net9.0\20250729.AssemblyInfo.cs
+C:\csharp\20250729\20250729\obj\Debug\net9.0\20250729.csproj.CoreCompileInputs.cache
+C:\csharp\20250729\20250729\bin\Debug\net9.0\20250729.deps.json
+C:\csharp\20250729\20250729\bin\Debug\net9.0\20250729.dll
+C:\csharp\20250729\20250729\bin\Debug\net9.0\20250729.pdb
+C:\csharp\20250729\20250729\obj\Debug\net9.0\20250729.dll
+C:\csharp\20250729\20250729\obj\Debug\net9.0\refint\20250729.dll
+C:\csharp\20250729\20250729\obj\Debug\net9.0\20250729.pdb
+C:\csharp\20250729\20250729\obj\Debug\net9.0\ref\20250729.dll
+C:\csharp\20250729\20250729\bin\Debug\net9.0\20250729.exe
+C:\csharp\20250729\20250729\bin\Debug\net9.0\20250729.runtimeconfig.json
+C:\csharp\20250729\20250729\obj\Debug\net9.0\20250729.genruntimeconfig.cache

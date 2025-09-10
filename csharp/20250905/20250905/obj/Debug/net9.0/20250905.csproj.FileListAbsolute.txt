@@ -1,0 +1,14 @@
+C:\csharp\20250905\20250905\bin\Debug\net9.0\20250905.exe
+C:\csharp\20250905\20250905\bin\Debug\net9.0\20250905.deps.json
+C:\csharp\20250905\20250905\bin\Debug\net9.0\20250905.runtimeconfig.json
+C:\csharp\20250905\20250905\bin\Debug\net9.0\20250905.dll
+C:\csharp\20250905\20250905\bin\Debug\net9.0\20250905.pdb
+C:\csharp\20250905\20250905\obj\Debug\net9.0\20250905.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\20250905\20250905\obj\Debug\net9.0\20250905.AssemblyInfoInputs.cache
+C:\csharp\20250905\20250905\obj\Debug\net9.0\20250905.AssemblyInfo.cs
+C:\csharp\20250905\20250905\obj\Debug\net9.0\20250905.csproj.CoreCompileInputs.cache
+C:\csharp\20250905\20250905\obj\Debug\net9.0\20250905.dll
+C:\csharp\20250905\20250905\obj\Debug\net9.0\refint\20250905.dll
+C:\csharp\20250905\20250905\obj\Debug\net9.0\20250905.pdb
+C:\csharp\20250905\20250905\obj\Debug\net9.0\20250905.genruntimeconfig.cache
+C:\csharp\20250905\20250905\obj\Debug\net9.0\ref\20250905.dll
